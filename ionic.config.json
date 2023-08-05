@@ -1,0 +1,7 @@
+{
+  "name": "grooming",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
